@@ -1,25 +1,25 @@
 ---
 lang: es
 geometry: margin=2cm
-linestretch: 1.3
+linestretch: 1
 numbersections: false
 ---
 
 ::: {.center}
 # Sergio Barrera
 
-Mérida, Yucatán, México
-
 [Portfolio](https://sergio-barrera.com/) · [LinkedIn](https://www.linkedin.com/in/sergio-barrera-1b9110323) · [GitHub](https://github.com/abrahambahez)
 
-[hi@sergio-barrera.com](mailto:hi@sergio-barrera.com) · +52 55 7531 1956
+hi@sergio-barrera.com · +52 55 75311956
+
+Mérida, Yucatán, México
 :::
 
 ## Experiencia
 
-[**consultor en innovación tecnológica**]{.smallcaps} \hfill 2025 - ahora
+### Consultor IT \hfill 2025 - ahora
 
-Ayudo a clientes a diseñar e implementar soluciones tecnológicas [(IA, Datos, Metodologías)]{.grey} que optimizan la [entrega]{.smallcaps} de productos o servicios de alto nivel y alta complejidad.
+Ayudo a clientes a diseñar e implementar soluciones tecnológicas (IA, Datos, Metodologías) que optimizan la entrega de productos o servicios de alto nivel y alta complejidad.
 
 *Proyecto RICAAC – FLACSO México* \hfill nov - ene 2025
 
@@ -28,14 +28,14 @@ Ayudo a clientes a diseñar e implementar soluciones tecnológicas [(IA, Datos, 
 - Implementé protocolos de seguridad y autenticación con AWS Cognito, asegurando la integridad de datos y la continuidad operativa del sistema
 - Estandaricé la interoperabilidad de la plataforma mediante Dublin Core y XML, permitiendo la integración nativa con ecosistemas bibliotecarios globales
 
-\textbf{Creai} – *Product Manager para Silia* \hfill jul – nov 2025
+### Creai \hfill jul – nov 2025
 
 - Reduje el ciclo de pre-venta de nuevo producto de 1.1 meses a 5 días (85% de ahorro en tiempo) automatizando el 60% del proceso con IA y diseño de SOP
 - Incrementé capacidad operativa del equipo en 440% mediante un framework estandarizado de consultoría corporativa orientada a ROI para industrias de logística, BPO y seguros
 - Diseñé estructura de +300 activos de conocimiento vía MCP (Model Context Protocol) para agentes de atención al cliente
 - Consolidé el primer backlog estratégico y roadmap de 3 meses, priorizando la resolución de deuda técnica y features críticas
 
-\textbf{KarmaPulse} – *Product Manager* \hfill 2017 – 2025
+### KarmaPulse \hfill 2017 – 2025
 
 7 años construyendo productos de datos. Traduje necesidades complejas en soluciones digitales funcionales mientras implementaba metodologías escalables para equipos remotos multifuncionales.
 
@@ -57,7 +57,7 @@ Ayudo a clientes a diseñar e implementar soluciones tecnológicas [(IA, Datos, 
 - Creé framework "Comunicar con Documentos" que triplicó producción de documentación
 - Mejoré prácticas de comunicación asíncrona en equipos remotos
 
-\textbf{Diseño web y comunicación} – *Freelance* \hfill 2015 – 2018
+### Diseño web y comunicación \hfill 2015 – 2018
 
 *Canvas de Comunicación Estratégica* \hfill 2017
 
@@ -71,11 +71,11 @@ Ayudo a clientes a diseñar e implementar soluciones tecnológicas [(IA, Datos, 
 
 ## Educación
 
-\textbf{Doctorado en Ciencias Antropológicas} \hfill 2020 – 2024
+### Doctorado en Ciencias Antropológicas \hfill 2020 – 2024
 
 *Universidad Autónoma de Yucatán*. Ced. Prof.: 15386196. Becado CONAHCYT
 
-\textbf{Licenciatura en Ciencias de la Comunicación} \hfill 2010 – 2015
+### Licenciatura en Ciencias de la Comunicación \hfill 2010 – 2015
 
 *Universidad Nacional Autónoma de México*. Ced. Prof.: 14442409. Titulado por tesis con Mención Honorífica
 

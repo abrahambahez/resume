@@ -1,19 +1,5 @@
-local function stringify(inlines)
-  local result = {}
-  for _, inline in ipairs(inlines) do
-    if inline.t == "Str" then
-      table.insert(result, inline.text)
-    elseif inline.t == "Space" then
-      table.insert(result, " ")
-    elseif inline.t == "Strong" then
-      table.insert(result, stringify(inline.content))
-    end
-  end
-  return table.concat(result)
-end
-
 local function cell_to_latex(cell, bold)
-  local text = stringify(cell.contents[1].content or cell.contents[1].c or {})
+  local text = pandoc.utils.stringify(cell.contents[1])
   if bold then
     return "\\textbf{" .. text .. "}"
   end
@@ -39,13 +25,18 @@ function Div(el)
     }
   end
 
-  if el.classes:includes("languages") then
+  if el.classes:includes("languages") or el.classes:includes("ponencias") then
     for _, block in ipairs(el.content) do
       if block.t == "Table" then
-        local ncols = #block.colspecs
-        local width = string.format("%.2f", 0.9 / ncols)
-        local cols = string.rep("p{" .. width .. "\\textwidth}", ncols)
-        local lines = {"\\begin{tabular}{" .. cols .. "}"}
+        local cols
+        if el.classes:includes("ponencias") then
+          cols = "p{0.08\\textwidth}p{0.85\\textwidth}"
+        else
+          local ncols = #block.colspecs
+          local width = string.format("%.2f", 0.9 / ncols)
+          cols = string.rep("p{" .. width .. "\\textwidth}", ncols)
+        end
+        local lines = {"{\\renewcommand{\\arraystretch}{1.5}", "\\begin{tabular}{" .. cols .. "}"}
 
         if block.head and block.head.rows and #block.head.rows > 0 then
           local header_cells = {}
@@ -65,7 +56,7 @@ function Div(el)
           end
         end
 
-        table.insert(lines, "\\end{tabular}")
+        table.insert(lines, "\\end{tabular}}")
         return pandoc.RawBlock("latex", table.concat(lines, "\n"))
       end
     end

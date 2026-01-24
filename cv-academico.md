@@ -1,22 +1,18 @@
 ---
 lang: es
 geometry: margin=2cm
-linestretch: 1.3
+linestretch: 1
 numbersections: true
 ---
 
 ::: {.center}
-# Sergio Abraham Barrera Hernández
+# Dr. Sergio Abraham Barrera Hernández
 
-**Doctor en Ciencias Antropológicas**
+[CVU]{.grey} 1089532 · [ORCID]{.grey} 0009-0002-1457-5203
 
-Mérida, Yucatán, México
+[Ced. Prof.]{.grey} 15386196 (Doctorado) · 14442409 (Licenciatura)
 
-CVU CONAHCYT: 1089532 · ORCID: 0009-0002-1457-5203
-
-Cédula Profesional: 15386196 (Doctorado) · 14442409 (Licenciatura)
-
-[hi@sergio-barrera.com](mailto:hi@sergio-barrera.com) · +52 55 7531 1956
+[Contacto]{.grey} hi@sergio-barrera.com · +52 55 75311956
 
 [sergio-barrera.com](https://sergio-barrera.com/) · [GitHub](https://github.com/abrahambahez)
 :::
@@ -30,56 +26,52 @@ Cédula Profesional: 15386196 (Doctorado) · 14442409 (Licenciatura)
 
 ## Formación académica
 
-### Grados
+### Doctorado en Ciencias Antropológicas \hfill 2020 – 2024
 
-\textbf{Doctorado en Ciencias Antropológicas} \hfill 2020 – 2024
+*Universidad Autónoma de Yucatán, Facultad de Ciencias Antropológicas.*
 
-Universidad Autónoma de Yucatán, Facultad de Ciencias Antropológicas. Tesis: "¿Quién decide cómo se vive? Identidades y Memorias en las Disputas por el Espacio en Pueblos de la Zona Norte de Mérida, Yucatán", presentada el 7 de marzo de 2025. Calificación: Aprobatoria. Becario CONAHCYT.
+Tesis: "¿Quién decide cómo se vive? Identidades y Memorias en las Disputas por el Espacio en Pueblos de la Zona Norte de Mérida, Yucatán", presentada el 7 de marzo de 2025. Asesora: Dra. Eugenia Iturriaga Acevedo. Calificación: Aprobatoria. Becario CONAHCYT.
 
-Jurado: Dr. Francisco Javier Fernández Repetto (Presidente), Dra. Eugenia Iturriaga Acevedo, Dr. Aurelio Sánchez Suárez, Dr. Steffan Igor Ayora Díaz, Dr. Rodrigo Alejandro Llanes Salazar.
+Jurado: Dr. Francisco Javier Fernández Repetto (Presidente), Dr. Aurelio Sánchez Suárez, Dr. Steffan Igor Ayora Díaz, Dr. Rodrigo Alejandro Llanes Salazar.
 
-\textbf{Licenciatura en Ciencias de la Comunicación (Periodismo)} \hfill 2010 – 2015
 
-Universidad Nacional Autónoma de México, FES Acatlán. Tesis: "Propuesta de un modelo semiocomunicativo basado en la semiótica de la comunicación". Asesora: Laura González Morales. Modalidad: Investigación y Docencia. Mención Honorífica.
+### Licenciatura en Ciencias de la Comunicación (Periodismo) \hfill 2010 – 2015
+
+*Universidad Nacional Autónoma de México, FES Acatlán.*
+
+Tesis: "Propuesta de un modelo semiocomunicativo basado en la semiótica de la comunicación". Asesora: Laura González Morales. Modalidad: Investigación y Docencia. Mención Honorífica.
 
 ### Idiomas
 
-::: {.languages}
-| Español | Inglés | Francés | Latín clásico |
-|---------|--------|---------|---------------|
-| Nativo  | B1     | Comprensión de lectura | Comprensión de lectura |
-:::
+- **Español** (nativo)
+- **Inglés** (B1) — TOEFL UTP  ENALLT UNAM 2020
+- **Francés** (comprensión de lectura) — CEI FES Acatlán 2015
+- **Latín clásico** (comprensión de lectura) — CEI FES Acatlán 2015
 
 ### Asistencia a cursos y diplomados
 
-\textbf{Diplomado "El Racismo y la Xenofobia vistos desde México"} \hfill 2023 – 2024
+**Diplomado "El Racismo y la Xenofobia vistos desde México"** \hfill 2023 – 2024
 
 UNAM, Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades (CEIICH). Co-organizado por SURXE-UNAM, Red INTEGRA y CONAPRED. 150 horas, concluido el 14 de marzo de 2024.
 
 ## Experiencia profesional en investigación aplicada y transferencia de conocimiento
 
-\textbf{Coordinación de proyectos tecnológicos y formación} \hfill 2016 – 2025
+### Coordinación de proyectos tecnológicos \hfill 2016 – 2025
 
-- Coordinación del proyecto "Democratizando la Información sobre el Agua en México" en colaboración con CONAHCYT (2020-2024): síntesis de 40+ conjuntos de datos heterogéneos, facilitación de colaboración entre 50+ actores (gobierno, activistas, académicos, empresarios), validación de accesibilidad en contextos diversos
+- Coordinación del proyecto SIUCAM, parte del programa PRONACES CONAHCYT (2020-2024): Coordinación de implementación tecnológica, definición de esquemas de datos, síntesis de 40+ conjuntos de datos heterogéneos, facilitación de colaboración entre 50+ actores (gobierno, activistas, académicos, empresarios), validación de accesibilidad en contextos diversos
 - Diseño e implementación de programas de formación profesional en gestión del conocimiento, técnicas de lectura, toma de notas y comunicación escrita
 - Facilitación de talleres con metodologías participativas (Design Thinking, metodologías ágiles)
 - Diseño y validación de framework de comunicación estratégica con organizaciones de la sociedad civil (2017)
 
-## Proyectos de investigación
-
-### Participación en proyectos
-
-\textbf{Miembro del proyecto: "Democratizando la Información sobre el Agua en México"} \hfill 2020 – 2024
-
-CONAHCYT. Proyecto de investigación aplicada para consolidar y democratizar información relacionada con el agua en México. Coordinación de trabajo de campo y pruebas de usabilidad con metodología participativa. Integración de casi 1 millón de registros en 30+ colecciones de datos.
-
 ## Producción
 
-### Tesis
+### Tesis doctoral \hfill 2025
 
-2025, "¿Quién decide cómo se vive? Identidades y Memorias en las Disputas por el Espacio en Pueblos de la Zona Norte de Mérida, Yucatán", tesis doctoral, Universidad Autónoma de Yucatán.
+«¿Quién decide cómo se vive? Identidades y Memorias en las Disputas por el Espacio en Pueblos de la Zona Norte de Mérida, Yucatán», Universidad Autónoma de Yucatán.
 
-2015, "Propuesta de un modelo semiocomunicativo basado en la semiótica de la comunicación", tesis de licenciatura, Universidad Nacional Autónoma de México.
+### Tesis de licenciatura \hfill 2018
+
+«Propuesta de un modelo semiocomunicativo basado en la semiótica de la comunicación», Universidad Nacional Autónoma de México.
 
 ## Docencia
 
@@ -93,9 +85,17 @@ CONAHCYT. Proyecto de investigación aplicada para consolidar y democratizar inf
 
 ### Ponencias en congresos
 
-2024, "¿Quién decide cómo se vive? Identidades y Memorias en las Disputas por el Espacio en Pueblos de la Zona Norte de Mérida, Yucatán", ponencia presentada en congreso académico.
-
-2022, "¿Quién decide cómo se vive? Identidades y Memorias en las Disputas por el Espacio en Pueblos de la Zona Norte de Mérida, Yucatán", ponencia presentada en congreso académico.
+::: {.ponencias}
+| Año | Ponencia |
+|-----|----------|
+| 2024 | «"Nos quieren borrar del mapa" Espacio, agencia y memoria en pueblos de la zona norte de Mérida, Yucatán», coloquio del doctorado en Ciencias Antropológicas |
+| 2022 | «Ciudad autosarcófaga. Desigualdad y disputa del espacio al noreste de Mérida», VIII Coloquio UNAM en la Península |
+| 2014 | «Experiencia, retos y expectativas de la aplicación de un programa de tutorías por pares en la FES Acatlán para la licenciatura en Comunicación», 6to Encuentro Nacional de Tutoría (UNAM, ANUIES) |
+| 2014 | «La subjetividad y la epistemología de la comunicación», X Ciclo de Conferencias Metadiseño, FES Cuautitlán, UNAM |
+| 2014 | «El problema de la subjetividad en la teoría de la comunicación (avance de tesis)», IX Foro de Investigación en Comunicación, FES Acatlán, UNAM |
+| 2013 | «Elementos de la comunicación en la música de concierto de las vanguardias mexicanas», VIII Foro de Investigación en Comunicación, FES Acatlán, UNAM |
+| 2011 | «Percepción de la literatura latinoamericana en la comunidad universitaria», VI Foro de Investigación en Comunicación, FES Acatlán, UNAM |
+:::
 
 ## Premios y distinciones
 
@@ -107,6 +107,6 @@ CONAHCYT. Proyecto de investigación aplicada para consolidar y democratizar inf
 
 2015, Mención Honorífica, Universidad Nacional Autónoma de México, por tesis de Licenciatura en Ciencias de la Comunicación.
 
-\begin{center}
-\textit{Fecha de actualización: enero de 2026}
-\end{center}
+::: {.center}
+*Fecha de actualización: enero de 2026*
+:::

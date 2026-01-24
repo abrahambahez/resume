@@ -4,8 +4,13 @@
 \usepackage{fontspec}
 \usepackage{hyperref}
 \usepackage{xcolor}
+\usepackage{setspace}
 
 \setmainfont{ETBembo}
+
+$if(linestretch)$
+\setstretch{$linestretch$}
+$endif$
 
 \hypersetup{
     colorlinks=true,
@@ -14,7 +19,7 @@
 }
 
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{0.5em}
+\setlength{\parskip}{1em}
 
 \pagestyle{plain}
 \setcounter{secnumdepth}{0}
