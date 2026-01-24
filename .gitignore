@@ -1,7 +1,2 @@
-*~
-*.tex
-*.aux
-*.log
-*.out
-*.pdf
-.DS_Store
+archive/
+output/*.pdf
