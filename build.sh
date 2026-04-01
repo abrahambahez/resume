@@ -31,6 +31,7 @@ mkdir -p output
 
 build_pdf resume-pm.es.md output/resume-pm.es.pdf
 build_pdf resume-pm.en.md output/resume-pm.en.pdf
-build_pdf cv-academico.md output/cv-academico.pdf
+build_pdf academic.es.md output/academic.es.pdf
+build_pdf academic.en.md output/academic.en.pdf
 
 echo "All PDFs generated in output/"
