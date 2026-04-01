@@ -12,7 +12,7 @@ numbersections: true
 
 [Ced. Prof.]{.grey} 15386196 (Doctorado) · 14442409 (Licenciatura)
 
-[Contacto]{.grey} hi@sergio-barrera.com · +52 55 75311956
+[Contacto]{.grey} hi@sergio-barrera.com · +52 56 58901052
 
 [sergio-barrera.com](https://sergio-barrera.com/) · [GitHub](https://github.com/abrahambahez)
 :::
@@ -20,9 +20,8 @@ numbersections: true
 ## Líneas de investigación
 
 - Identidades y memoria colectiva
-- Territorio y espacio urbano
-- Antropología urbana
-- Disputas por el espacio y derecho a la ciudad
+- Antropología urbana y del territorio
+- Antropología de infraestructuras y la tecnología (incipiente)
 
 ## Formación académica
 
@@ -58,10 +57,10 @@ UNAM, Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades (C
 
 ### Coordinación de proyectos tecnológicos \hfill 2016 – 2025
 
-- Coordinación del proyecto SIUCAM, parte del programa PRONACES CONAHCYT (2020-2024): Coordinación de implementación tecnológica, definición de esquemas de datos, síntesis de 40+ conjuntos de datos heterogéneos, facilitación de colaboración entre 50+ actores (gobierno, activistas, académicos, empresarios), validación de accesibilidad en contextos diversos
+- Proyecto SIUCAM, parte del programa PRONACES CONAHCYT (2020-2024): En el rol de gestor de producto digital, facilitación de implementación tecnológica, definición de esquemas de datos, síntesis de 40+ conjuntos de datos heterogéneos, facilitación de colaboración entre 50+ actores (gobierno, activistas, académicos, empresarios), validación de accesibilidad en contextos diversos. *Participación como consultor privado, no como investigador*
 - Diseño e implementación de programas de formación profesional en gestión del conocimiento, técnicas de lectura, toma de notas y comunicación escrita
 - Facilitación de talleres con metodologías participativas (Design Thinking, metodologías ágiles)
-- Diseño y validación de framework de comunicación estratégica con organizaciones de la sociedad civil (2017)
+- Diseño y validación del «canvas de comunicación estratégica» con organizaciones de la sociedad civil (2017)
 
 ## Producción
 
@@ -108,5 +107,5 @@ UNAM, Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades (C
 2015, Mención Honorífica, Universidad Nacional Autónoma de México, por tesis de Licenciatura en Ciencias de la Comunicación.
 
 ::: {.center}
-*Fecha de actualización: enero de 2026*
+*Fecha de actualización: marzo de 2026*
 :::
