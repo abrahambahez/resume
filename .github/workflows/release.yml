@@ -1,0 +1,37 @@
+name: Release PDFs
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-extra
+
+      - name: Install ETBembo font
+        run: |
+          mkdir -p ~/.local/share/fonts
+          curl -L https://github.com/edwardtufte/et-book/archive/refs/heads/gh-pages.zip -o et-book.zip
+          unzip -q et-book.zip
+          find et-book-gh-pages -name "*.ttf" -exec cp {} ~/.local/share/fonts/ \;
+          fc-cache -f
+
+      - name: Build PDFs
+        run: ./build.sh
+
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: output/*.pdf
+          generate_release_notes: true
