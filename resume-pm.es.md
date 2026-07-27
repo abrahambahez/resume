@@ -10,7 +10,7 @@ numbersections: false
 
 [Portfolio](https://sergio-barrera.com/) · [LinkedIn](https://www.linkedin.com/in/sergio-barrera-1b9110323) · [GitHub](https://github.com/abrahambahez)
 
-hi@sergio-barrera.com · +52 55 75311956
+hi@sergio-barrera.com · +52 56 5890 1052
 
 Mérida, Yucatán, México
 :::
@@ -21,10 +21,10 @@ Mérida, Yucatán, México
 
 Ayudo a clientes a diseñar e implementar soluciones tecnológicas (IA, Datos, Metodologías) que optimizan la entrega de productos o servicios de alto nivel y alta complejidad.
 
-*Proyecto RICAAC – FLACSO México* \hfill nov - ene 2025
+*Proyecto RICAAC – FLACSO México* \hfill nov 2025 - mar 2026
 
 - Coordiné la alineación de stakeholders multinivel (academia, gobierno, ONG) para consolidar conocimiento técnico en un activo digital único
-- Reduje el time-to-market mediante desarrollo asistido por IA (Claude Code), liderando desde la definición de UX hasta la implementación del frontend
+- Reduje el tiempo de implementación mediante desarrollo asistido por IA (Claude Code), liderando desde la definición de UX hasta la implementación del frontend
 - Implementé protocolos de seguridad y autenticación con AWS Cognito, asegurando la integridad de datos y la continuidad operativa del sistema
 - Estandaricé la interoperabilidad de la plataforma mediante Dublin Core y XML, permitiendo la integración nativa con ecosistemas bibliotecarios globales
 

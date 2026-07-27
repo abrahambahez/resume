@@ -10,7 +10,7 @@ numbersections: false
 
 [Portfolio](https://sergio-barrera.com/) · [LinkedIn](https://www.linkedin.com/in/sergio-barrera-1b9110323) · [GitHub](https://github.com/abrahambahez)
 
-hi@sergio-barrera.com · +52 55 75311956
+hi@sergio-barrera.com · +52 56 5890 1052
 
 Mérida, Yucatán, México
 :::
