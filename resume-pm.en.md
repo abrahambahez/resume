@@ -15,6 +15,8 @@ hi@sergio-barrera.com · +52 56 5890 1052
 Mérida, Yucatán, México
 :::
 
+Product Manager with 8 years leading teams and 20+ digital products for public institutions, startups, and civil society organizations.
+
 ## Experience
 
 ### Technology innovation consultant \hfill 2025 - present
@@ -28,14 +30,16 @@ I help clients design and implement technology solutions (AI, Data, Methodologie
 - Implemented security and authentication protocols with AWS Cognito, ensuring data integrity and system operational continuity
 - Standardized platform interoperability via Dublin Core and XML, enabling native integration with global library ecosystems
 
-### Creai \hfill Jul – Nov 2025
+### Product Manager · Creai \hfill Jul – Nov 2025
 
-- Reduced new product pre-sales cycle from 1.1 months to 5 days (85% time savings) by automating 60% of the process with AI and SOP design
+Sole PM responsible for launching Silia, an AI agent orchestration platform, translating C-level vision into a scalable operation and viable product.
+
+- Reduced Silia's pre-sales cycle from 1.1 months to 5 days (85% time savings) by automating 60% of the process with AI and SOP design
 - Increased team operational capacity by 440% through a standardized ROI-oriented corporate consulting framework for logistics, BPO, and insurance industries
 - Designed 300+ knowledge asset structure via MCP (Model Context Protocol) for customer service agents
 - Consolidated the first strategic backlog and 3-month roadmap, prioritizing technical debt resolution and critical features
 
-### KarmaPulse \hfill 2017 – 2025
+### Product Manager · KarmaPulse \hfill 2017 – 2025
 
 7 years building data products. Translated complex needs into functional digital solutions while implementing scalable methodologies for remote cross-functional teams.
 
@@ -43,13 +47,13 @@ I help clients design and implement technology solutions (AI, Data, Methodologie
 
 - Synthesized 40+ heterogeneous datasets into a civic technology platform
 - Facilitated collaboration among 50+ stakeholders (government, activists, academics, entrepreneurs)
-- Led accessibility validation across diverse data literacy contexts
+- Led qualitative accessibility research (usability testing, contextual inquiry) across diverse data literacy contexts
 
 *10+ Social Analytics Products and Data Applications* \hfill 2023 – 2025
 
-- Led development of visualization suite adopted by 50% of B2B clients, extending average LTV from 12 to 16 months, used by marketing teams at multinational companies, social media analysis teams, and commercial strategy departments
+- Led development of Web Reports, a visualization suite adopted by 50% of B2B clients, extending average LTV from 12 to 16 months, used by marketing teams at multinational companies, social media analysis teams, and commercial strategy departments
 - Launched AI comment classification MVP in 5 days using RAG + prompt engineering for an international fast-food company
-- Co-defined and led UX research for food logistics app in northern Mexico
+- Co-defined and led qualitative field research (ethnography, contextual inquiry) for a food logistics app in northern Mexico
 
 *Internal Initiatives* \hfill 2022 – 2024
 
