@@ -30,18 +30,18 @@ Ayudo a clientes a diseñar e implementar soluciones tecnológicas (IA, Datos, M
 - Implementé protocolos de seguridad y autenticación con AWS Cognito, asegurando la integridad de datos y la continuidad operativa del sistema
 - Estandaricé la interoperabilidad de la plataforma mediante Dublin Core y XML, permitiendo la integración nativa con ecosistemas bibliotecarios globales
 
-### Product Manager · Creai \hfill jul – nov 2025
+### Product Manager *en* Creai \hfill jul – nov 2025
 
-Único PM responsable del lanzamiento de Silia, plataforma de orquestación de agentes de IA, traduciendo visión C-level en operación escalable y producto viable.
+PM responsable del lanzamiento de Silia, plataforma de orquestación de agentes de IA, traduciendo visión C-level en casos de negocio, operación escalable y producto viable.
 
 - Reduje el ciclo de pre-venta de Silia de 1.1 meses a 5 días (85% de ahorro en tiempo) automatizando el 60% del proceso con IA y diseño de SOP
 - Incrementé capacidad operativa del equipo en 440% mediante un framework estandarizado de consultoría corporativa orientada a ROI para industrias de logística, BPO y seguros
 - Diseñé estructura de +300 activos de conocimiento vía MCP (Model Context Protocol) para agentes de atención al cliente
 - Consolidé el primer backlog estratégico y roadmap de 3 meses, priorizando la resolución de deuda técnica y features críticas
 
-### Product Manager · KarmaPulse \hfill 2017 – 2025
+### Product Manager *en* KarmaPulse \hfill 2017 – 2025
 
-7 años construyendo productos de datos. Traduje necesidades complejas en soluciones digitales funcionales mientras implementaba metodologías escalables para equipos remotos multifuncionales.
+7 años liderando un portfolio de 3 a 4 líneas de producto simultáneas y traslapadas, traduciendo necesidades complejas en soluciones digitales funcionales mediante un modelo operativo de producto para equipos remotos multifuncionales.
 
 *SIUCAM – Plataforma Nacional de Datos del Agua* \hfill 2020 – 2024
 
